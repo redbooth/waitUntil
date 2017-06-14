@@ -53,9 +53,7 @@
     "husky": "0.13.1",
     "jest": "18.1.0"
   },
-  "dependencies": {
-    "bluebird": "3.4.7"
-  },
+  "dependencies": {},
   "engines": {
     "node": ">= 4",
     "npm": ">= 2"

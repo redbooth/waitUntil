@@ -1,9 +1,5 @@
-var Promise = require('bluebird');
-
-
 var DEFAULT_INTERVAL = 50;
 var DEFAULT_TIMEOUT = 5000;
-
 
 /**
  * Waits for predicate to be truthy and resolves a Promise
